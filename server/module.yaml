@@ -1,0 +1,7 @@
+product: jvm/app
+
+dependencies:
+  - io.ktor:ktor-server-core:2.3.2
+  - io.ktor:ktor-server-netty:2.3.2
+  - io.ktor:ktor-server-status-pages:2.3.2
+  - ch.qos.logback:logback-classic:1.4.11

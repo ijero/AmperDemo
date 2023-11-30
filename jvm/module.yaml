@@ -4,7 +4,6 @@ dependencies:
   - ../shared
   - $compose.desktop.currentOs
 
-
 settings:
   compose:
     enabled: true
