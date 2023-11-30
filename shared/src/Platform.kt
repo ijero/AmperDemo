@@ -1,3 +1,3 @@
-expect class Platform {
+expect class Platform() {
     fun name(): String
 }
