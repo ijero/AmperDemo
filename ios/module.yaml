@@ -1,0 +1,11 @@
+product: ios/app
+
+dependencies:
+  - ../shared
+
+
+settings:
+  compose:
+    enabled: true
+  ios:
+    teamId: <your team ID here>
